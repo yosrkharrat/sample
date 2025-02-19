@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue !important;
+    
+}
+ol {
+    list-style-type: decimal;
+    padding: 0;
+}
+li {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
